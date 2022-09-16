@@ -25,7 +25,7 @@ function App() {
         </p>
       </div>
       <p>
-        This is a demo application to add Continuous integration(CI) to React application using Cypress.
+        This is a demo application to add Continuous integration(CI)to React application using Cypress.
       </p>
     </div>
   )
