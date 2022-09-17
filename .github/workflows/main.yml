@@ -1,7 +1,7 @@
 name: Run Cypress Tests
 on: [push]
 jobs:
-  cypress-run:
+  install:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
